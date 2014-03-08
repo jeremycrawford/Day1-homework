@@ -1,4 +1,4 @@
-Introduction to HTML and CSS
+INTRO TO HTML & CSS
 =============
 
 First Homework at The Iron Yard
